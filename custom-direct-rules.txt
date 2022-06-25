@@ -3,4 +3,4 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,download-cdn.jetbrains.com
   - DOMAIN-SUFFIX,wikawika.xyz
-  - DOMAIN-SUFFIX,akamai.net
+  - DOMAIN-SUFFIX,akamaized.net
