@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
+  - DOMAIN,download-cdn.jetbrains.com,DIRECT
+  - DOMAIN-SUFFIX,wikawika.xyz,DIRECT
+  - DOMAIN-SUFFIX,akamai.net,DIRECT
