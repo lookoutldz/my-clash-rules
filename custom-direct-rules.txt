@@ -3,7 +3,7 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,download-cdn.jetbrains.com
   - DOMAIN-SUFFIX,wikawika.xyz
-
+  # steam 
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN,steamcommunity.com
   - DOMAIN,steampowered.com
@@ -12,7 +12,7 @@ payload:
   - DOMAIN,steamcontent.com
   - DOMAIN,steamstatic.com
   - DOMAIN,akamaihd.net
-
+  # steam cdn
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,st.dl.bscstorage.net
   - DOMAIN,dl.steam.clngaa.com
