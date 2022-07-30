@@ -5,11 +5,11 @@ payload:
   - DOMAIN-SUFFIX,wikawika.xyz
   # steam 
   - DOMAIN-SUFFIX,akamaized.net
-  # - DOMAIN,steamcommunity.com
+  - DOMAIN,steamcommunity.com
   - DOMAIN,steampowered.com
   - DOMAIN,steamgames.com
-  # - DOMAIN,steamusercontent.com
-  # - DOMAIN,steamcontent.com
+  - DOMAIN,steamusercontent.com
+  - DOMAIN,steamcontent.com
   - DOMAIN,steamstatic.com
   - DOMAIN,akamaihd.net
   # steam cdn
