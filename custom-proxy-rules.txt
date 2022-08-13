@@ -1,3 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN,amazonaws.com
   - DOMAIN,cphub.net
+  - DOMAIN,docker.com
+  - DOMAIN,github.com
+  - DOMAIN,githubusercontent.com
+  - DOMAIN,github.githubassets.com
+  - DOMAIN,github.global.ssl.fastly.net
+  - DOMAIN,github.io
+  - DOMAIN,github.community
+  - DOMAIN,github.map.fastly.net
+  - DOMAIN,githubstatus.com
+  - DOMAIN,ghcr.io
