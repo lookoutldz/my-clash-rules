@@ -22,3 +22,6 @@ payload:
   - DOMAIN,cdn-ws.content.steamchina.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
   - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+
+  #synplogy
+  - DOMAIN,packages.synocommunity.com/
