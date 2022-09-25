@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,akamaihd.net
   # steam cdn
+  - DOMAIN-SUFFIX,hwcdn.net
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,st.dl.bscstorage.net
   - DOMAIN,dl.steam.clngaa.com
