@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,nintendo.com.hk
