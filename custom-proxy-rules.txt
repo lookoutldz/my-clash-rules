@@ -15,4 +15,4 @@ payload:
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,nintendo.com.hk
-  - DOMAIN,steamcommunity.com
+  - DOMAIN-SUFFIX,steamcommunity.com
