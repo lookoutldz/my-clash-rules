@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,gofrp.org
   # steam 
   - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,steamcommunity.com
+  # - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steamusercontent.com
