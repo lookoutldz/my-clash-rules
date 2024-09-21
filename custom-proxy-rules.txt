@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,nintendo.com.hk
   - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,nvidia.com
