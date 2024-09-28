@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidia.cn
+  - DOMAIN-SUFFIX,brew.sh
