@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,nvidia.com          # NVIDIA 官方
   - DOMAIN-SUFFIX,nvidia.cn           # NVIDIA 中国
   - DOMAIN-SUFFIX,manhuabika.com      # 漫画站
+  - DOMAIN,google.com.hk              # 谷歌香港
 
   # ==========================
   # 🍺 Homebrew 相关
