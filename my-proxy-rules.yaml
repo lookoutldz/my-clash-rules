@@ -23,7 +23,7 @@ payload:
   # 🐙 GitHub 相关
   # ==========================
   - DOMAIN-SUFFIX,github.com          # GitHub 主站
-  - DOMAIN-SUFFIX,githubusercontent.com # GitHub 用户内容（raw / release 资源）
+  - DOMAIN,githubusercontent.com # GitHub 用户内容（raw / release 资源）
   - DOMAIN-SUFFIX,github.githubassets.com # GitHub 静态资源（CSS/JS）
   - DOMAIN-SUFFIX,github.global.ssl.fastly.net # GitHub CDN
   - DOMAIN-SUFFIX,github.io           # GitHub Pages
