@@ -1,0 +1,85 @@
+payload:
+  # ==========================
+  # 🔑 常用服务 / 工具
+  # ==========================
+  - DOMAIN-SUFFIX,1password.com       # 1Password 密码管理
+  - DOMAIN-SUFFIX,amazonaws.com       # AWS 云服务
+  - DOMAIN-SUFFIX,cphub.net           # CPHub（可能是第三方依赖源）
+  - DOMAIN-SUFFIX,intellij.net        # JetBrains 插件/更新
+  - DOMAIN-SUFFIX,jetbrains.com       # JetBrains 官方站点
+  - DOMAIN-SUFFIX,nintendo.com.hk     # 任天堂香港
+  - DOMAIN-SUFFIX,nvidia.com          # NVIDIA 官方
+  - DOMAIN-SUFFIX,nvidia.cn           # NVIDIA 中国
+  - DOMAIN-SUFFIX,manhuabika.com      # 漫画站
+
+  # ==========================
+  # 🍺 Homebrew 相关
+  # ==========================
+  - DOMAIN-SUFFIX,brew.sh             # Homebrew 官方站点
+  - DOMAIN,formulae.brew.sh           # Homebrew formulae API
+  - DOMAIN,ghcr.io                    # GitHub Container Registry（Homebrew 二进制包）
+
+  # ==========================
+  # 🐙 GitHub 相关
+  # ==========================
+  - DOMAIN-SUFFIX,github.com          # GitHub 主站
+  - DOMAIN-SUFFIX,githubusercontent.com # GitHub 用户内容（raw / release 资源）
+  - DOMAIN-SUFFIX,github.githubassets.com # GitHub 静态资源（CSS/JS）
+  - DOMAIN-SUFFIX,github.global.ssl.fastly.net # GitHub CDN
+  - DOMAIN-SUFFIX,github.io           # GitHub Pages
+  - DOMAIN-SUFFIX,github.community    # GitHub 社区
+  - DOMAIN-SUFFIX,github.map.fastly.net # GitHub CDN
+  - DOMAIN-SUFFIX,githubstatus.com    # GitHub 状态页
+
+  # ==========================
+  # 🟩 Node.js / npm / yarn / pnpm
+  # ==========================
+  - DOMAIN-SUFFIX,nodejs.org
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,registry.npmjs.org
+  - DOMAIN-SUFFIX,yarnpkg.com
+  - DOMAIN-SUFFIX,pnpm.io
+
+  # ==========================
+  # 🐍 Python (pip / PyPI)
+  # ==========================
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,files.pythonhosted.org
+  - DOMAIN-SUFFIX,pypi.io
+
+  # ==========================
+  # 🐳 Docker / 容器
+  # ==========================
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerusercontent.com
+  - DOMAIN,registry-1.docker.io
+  - DOMAIN,auth.docker.io
+
+  # ==========================
+  # ☕ Java / Maven / Gradle
+  # ==========================
+  - DOMAIN-SUFFIX,maven.org
+  - DOMAIN-SUFFIX,maven.apache.org
+  - DOMAIN-SUFFIX,repo.maven.apache.org
+  - DOMAIN-SUFFIX,gradle.org
+
+  # ==========================
+  # 🦀 Rust / Cargo
+  # ==========================
+  - DOMAIN-SUFFIX,rust-lang.org
+  - DOMAIN-SUFFIX,crates.io
+
+  # ==========================
+  # 🐹 Go / Golang
+  # ==========================
+  - DOMAIN-SUFFIX,golang.org
+  - DOMAIN-SUFFIX,go.dev
+  - DOMAIN-SUFFIX,goproxy.io
+
+  # ==========================
+  # 💻 开发者工具
+  # ==========================
+  - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,visualstudio.com
