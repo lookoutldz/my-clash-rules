@@ -84,3 +84,16 @@ payload:
   # ==========================
   - DOMAIN-SUFFIX,vscode.dev
   - DOMAIN-SUFFIX,visualstudio.com
+  
+  # ==========================
+  # Pixiv main & services
+  # ==========================
+  - DOMAIN-SUFFIX,pixiv.net,Proxy
+  - DOMAIN-SUFFIX,pximg.net,Proxy
+  - DOMAIN-SUFFIX,fanbox.cc,Proxy
+  - DOMAIN-SUFFIX,booth.pm,Proxy
+  - DOMAIN-SUFFIX,pixivision.net,Proxy
+  - DOMAIN-SUFFIX,app-api.pixiv.net,Proxy
+  - DOMAIN-SUFFIX,oauth.secure.pixiv.net,Proxy
+  - DOMAIN-SUFFIX,accounts.pixiv.net,Proxy
+
