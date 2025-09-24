@@ -88,12 +88,11 @@ payload:
   # ==========================
   # Pixiv main & services
   # ==========================
-  - DOMAIN,pixiv.net,Proxy
-  - DOMAIN,pximg.net,Proxy
-  - DOMAIN-SUFFIX,fanbox.cc,Proxy
-  - DOMAIN-SUFFIX,booth.pm,Proxy
-  - DOMAIN-SUFFIX,pixivision.net,Proxy
-  - DOMAIN-SUFFIX,app-api.pixiv.net,Proxy
-  - DOMAIN-SUFFIX,oauth.secure.pixiv.net,Proxy
-  - DOMAIN-SUFFIX,accounts.pixiv.net,Proxy
-
+  - DOMAIN,pixiv.net
+  - DOMAIN,pximg.net
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,booth.pm
+  - DOMAIN-SUFFIX,pixivision.net
+  - DOMAIN-SUFFIX,app-api.pixiv.net
+  - DOMAIN-SUFFIX,oauth.secure.pixiv.net
+  - DOMAIN-SUFFIX,accounts.pixiv.net
