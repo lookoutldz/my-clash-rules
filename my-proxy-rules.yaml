@@ -88,11 +88,19 @@ payload:
   # ==========================
   # Pixiv main & services
   # ==========================
-  - DOMAIN,pixiv.net
-  - DOMAIN,pximg.net
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,booth.pm
   - DOMAIN-SUFFIX,pixivision.net
   - DOMAIN-SUFFIX,app-api.pixiv.net
   - DOMAIN-SUFFIX,oauth.secure.pixiv.net
   - DOMAIN-SUFFIX,accounts.pixiv.net
+
+  # ==========================
+  # Nikke
+  # ==========================
+  - DOMAIN-SUFFIX,nikke-kr.com
+  - DOMAIN-SUFFIX,intlgame.com
+  - DOMAIN-SUFFIX,nikke-en.com
+  
