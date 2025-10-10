@@ -1,0 +1,23 @@
+payload:
+  # ==========================
+  # 🔑 常用服务 / 工具
+  # ==========================
+  - DOMAIN-SUFFIX,1password.com       # 1Password 密码管理
+  - DOMAIN-SUFFIX,cphub.net           # CPHub（可能是第三方依赖源）
+  - DOMAIN-SUFFIX,nintendo.com.hk     # 任天堂香港
+  - DOMAIN-SUFFIX,nvidia.com          # NVIDIA 官方
+  - DOMAIN-SUFFIX,nvidia.cn           # NVIDIA 中国
+  - DOMAIN-SUFFIX,manhuabika.com      # 漫画站
+  - DOMAIN,google.com.hk              # 谷歌香港
+
+  # ==========================
+  # Pixiv main & services
+  # ==========================
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,booth.pm
+  - DOMAIN-SUFFIX,pixivision.net
+  - DOMAIN-SUFFIX,app-api.pixiv.net
+  - DOMAIN-SUFFIX,oauth.secure.pixiv.net
+  - DOMAIN-SUFFIX,accounts.pixiv.net
